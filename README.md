@@ -1,4 +1,4 @@
-# Your Blogging Website
+# mageX Blogs
 
 [![Website](https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://mageX.github.io/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Shr11/mageX.github.io/blob/main/LICENSE)
